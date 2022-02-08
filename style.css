@@ -187,4 +187,9 @@ html, body{
     font-size: 25px;
     font-weight: 500;
     }
+
+    #left h5{
+        font-size: 15px;
+        margin-left: 35px;
+    }
 }
